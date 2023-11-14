@@ -1,0 +1,19 @@
+body { 
+    background-color: plum;
+    text-align: center;
+}
+
+#titulo {
+    text-align: center;
+    background-color: blueviolet
+    ;
+}
+
+.texto {
+    text-align: center;
+    color:rgb(197, 60, 156);
+    font-size: larger
+    ;
+}
+
+
